@@ -1,0 +1,26 @@
+/* Add here all your CSS customizations */
+
+
+
+@media (min-width: 992px) {
+
+.logo-top
+{
+		
+}
+	
+}
+
+@media (max-width: 991px) {
+
+.logo-top
+{
+	display:none;	
+}
+.ssrsystem
+
+	body{
+    background-color: #171814;
+}
+	
+}
